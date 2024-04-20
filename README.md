@@ -6,3 +6,4 @@ Problems solved:
 
 - [Problem 1] Easy - Two Sum
 - [Problem 9] Easy - Palindrome Number
+- [Problem 13] Easy - Roman To Numeral
