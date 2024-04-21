@@ -6,6 +6,7 @@ Problems solved:
 
 - [Problem 1] Easy - Two Sum
 - [Problem 2] Medium - Add Two Numbers
+- [Problem 4] Hard - Median of Two Sorted Arrays
 - [Problem 9] Easy - Palindrome Number
 - [Problem 13] Easy - Roman To Numeral
 - [Problem 14] Easy - Longest Common Prefix
