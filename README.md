@@ -8,3 +8,4 @@ Problems solved:
 - [Problem 2] Medium - Add Two Numbers
 - [Problem 9] Easy - Palindrome Number
 - [Problem 13] Easy - Roman To Numeral
+- [Problem 14] Easy - Longest Common Prefix
